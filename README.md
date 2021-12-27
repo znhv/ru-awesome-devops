@@ -7,7 +7,7 @@ with up-to-date and understandable documentation.
 
 ## Contents
 
-* [Языки программирования](#языки-программирования)
+* [Programming language](#programming-language)
     - [Go](#go)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -23,27 +23,27 @@ with up-to-date and understandable documentation.
 * [Contributing](#contributing)
 * [License](#license)
 
-## Языки программирования
+## Programming language
 
-### Go
+#### Go
 - [Go]()
 
-### Python
+#### Python
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-### Ruby
+#### Ruby
 - [Ruby]()
 
-### Node.js
+#### Node.js
 - [Node.js]()
 
-### Rust
+#### Rust
 - [Rust]()
 
-### C
+#### C
 - [C]()
 
-### C++
+#### C++
 - [C++]()
 
 ## Make your contribution
