@@ -1,6 +1,6 @@
 # Awesome DevOps
 
-[![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml) ![license](https://badgen.net/badge/license/MIT/green) ![commits](https://badgen.net/github/commits/znhv/awesome-devops)
+[![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml) ![license](https://badgen.net/badge/license/MIT/green)
 
 This is an encyclopedia for a DevOps engineer 
 with up-to-date and understandable documentation.
