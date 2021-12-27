@@ -1,6 +1,6 @@
 # Awesome DevOps
 
-![license](https://badgen.net/badge/license/MIT/green) ![commits](https://badgen.net/github/commits/znhv/awesome-sre)
+![license](https://badgen.net/badge/license/MIT/green) ![commits](https://badgen.net/github/commits/znhv/awesome-devops)
 
 This is an encyclopedia for a DevOps engineer 
 with up-to-date and understandable documentation.
