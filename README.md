@@ -1,6 +1,6 @@
 # Awesome DevOps
 
-[![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml) ![license](https://badgen.net/badge/license/MIT/green)
+[![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml)
 
 This is an encyclopedia for a DevOps engineer 
 with up-to-date and understandable documentation.
@@ -46,6 +46,9 @@ with up-to-date and understandable documentation.
 #### C++
 - [C++]()
 
-## Make your contribution
+## Contributing
 To keep the documentation up-to-date, you can edit
 or add new articles. We accept pull requests ✨
+
+## License
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
