@@ -8,10 +8,13 @@ with up-to-date and understandable documentation.
 ## Contents
 
 * [Языки программирования](#языки-программирования)
-    - [Read/Write](#read-write)
-    - [Transformations - General DSP](#transformations---general-dsp)
-    - [Feature extraction](#feature-extraction)
-    - [Data augmentation](#data-augmentation)
+    - [Go](#go)
+    - [Python](#python)
+    - [Ruby](#ruby)
+    - [Node.js](#node.js)
+    - [Rust](#rust)
+    - [C](#c)
+    - [C++](#c++)
 * [Tutorials](#tutorials)
 * [Books](#books)
 * [Scientific Paper](#scientific-papers)
@@ -22,21 +25,26 @@ with up-to-date and understandable documentation.
 
 ## Языки программирования
 
-- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
-    - Функции
-    - [Вопросы](languages/python/questions.md)
+### Go
 - [Go]()
-    - Функции
+
+### Python
+- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+### Ruby
 - [Ruby]()
-    - Функции
+
+### Node.js
 - [Node.js]()
-    - Функции
+
+### Rust
 - [Rust]()
-    - Функции
+
+### C
 - [C]()
-    - Функции
+
+### C++
 - [C++]()
-    - Функции
 
 ## Make your contribution
 To keep the documentation up-to-date, you can edit
