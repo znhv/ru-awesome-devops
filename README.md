@@ -1,55 +1,63 @@
-# Awesome DevOps
+# Awesome DevOps Ru
 
 [![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml)
 
+Кураторский список для DevOps-инженера 
+с актуальной и 📚 понятной документацией.
 
-This is an encyclopedia for a DevOps engineer 
-with up-to-date and understandable documentation.
+Идея создания энциклопедии пришла от [справочника 
+для веб-разработчиков](https://github.com/doka-guide), захотелось создать что-то похожее 
+для DevOps-инженеров. За основу взял [DevOps Roadmap](https://roadmap.sh/devops), 
+так появился репозиторий. Материал собираю один, но 
+каждый может ✨ [внести свой вклад в проект](#внесите-свой-вклад).
 
-## Contents
+## Содержание
 
-* [Programming language](#programming-language)
+- [Языки программирования](#языки-программирования)
     - [Go](#go)
     - [Python](#python)
     - [Ruby](#ruby)
-    - [Node.js](#node.js)
+    - [JavaScript](#javascript)
     - [Rust](#rust)
     - [C](#c)
     - [C++](#c++)
-* [Tutorials](#tutorials)
-* [Books](#books)
-* [Scientific Paper](#scientific-papers)
-* [Other Resources](#other-resources)
-* [Related lists](#related-lists)
-* [Contributing](#contributing)
-* [License](#license)
+- [OS Concepts]()
+    - fdsf
+    - 
+* [Учебные пособия](#tutorials)
+* [Книги](#books)
+* [Научные статьи](#scientific-papers)
+* [Другие Ресурсы](#other-resources)
+* [Связанные списки](#related-lists)
+* [Внесите свой вклад](#внесите-свой-вклад)
+* [Лицензия](#лицензия)
 
-## Programming language
+## Языки программирования
 
 #### Go
-- [Go]()
+- [Go](https://github.com/avelino/awesome-go#readme)
 
 #### Python
-- [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
 
 #### Ruby
-- [Ruby]()
+- [Ruby](https://github.com/markets/awesome-ruby#readme)
 
-#### Node.js
-- [Node.js]()
+#### JavaScript
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 
 #### Rust
-- [Rust]()
+- [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 
 #### C
-- [C]()
+- [C](https://github.com/inputsh/awesome-c#readme)
 
 #### C++
-- [C++]()
+- [C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
-## Contributing
-To keep the documentation up-to-date, you can edit
-or add new articles. We accept pull requests ✨
+## Внесите свой вклад
+Чтобы документация оставалась актуальной, вы можете 
+редактировать или добавлять новые статьи. Принимаем пулл-реквесты ✨
 
-## License
+## Лицензия
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
