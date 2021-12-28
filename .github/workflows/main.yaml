@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
-        args: README.md --allow-dupe --allow-redirect --allow-ssl
+        args: README.md --allow-dupe --allow-redirect --allow-ssl -w github.com/znhv
