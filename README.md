@@ -1,6 +1,6 @@
 # Awesome DevOps
 
-[![CI](https://github.com/znhv/awesome-devops/actions/workflows/CI/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/CI)
+[![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml)
 
 
 This is an encyclopedia for a DevOps engineer 
