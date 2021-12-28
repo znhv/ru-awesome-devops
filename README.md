@@ -31,7 +31,7 @@
 - [Книги](#книги)
 - [Научные статьи](#scientific-papers)
 - [Другие Ресурсы](#other-resources)
-* [Лицензия](#лицензия)
+- [Лицензия](#лицензия)
 
 ## Языки программирования
 - [Go](https://github.com/avelino/awesome-go#readme)
