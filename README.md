@@ -19,6 +19,7 @@
 - [Книги](#книги)
 - [Научные статьи](#scientific-papers)
 - [Другие Ресурсы](#other-resources)
+- [Внесите свой вклад](#Внесите-свой-вклад)
 - [Лицензия](#лицензия)
 
 ## Языки программирования
@@ -31,11 +32,20 @@
 - [C++](https://github.com/fffaraz/awesome-cpp#readme) — General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ## Аспекты операционных систем
-- [Управление процессами](process-management/index.md)
-- [Потоки и параллелизм](streams/index.md)
-- [Сокеты](sockets/index.md)
-- [Основы POSIX](posix/index.md)
-- [Основы компьютерных сетей](basics-networks/index.md)
+- [Управление процессами](https://doka.guide/tools/process-management/) - Про управление процессами в многопоточных операционных системах.
+- [Потоки и параллелизм](https://russianblogs.com/article/86971326826/) - Поток, процесс и параллелизм.
+- [Сокеты](https://habr.com/ru/company/otus/blog/539550/) - Сокеты в ОС Linux.
+- [Основы POSIX](https://blog.iteducenter.ua/articles/chto-takoe-posix/) - Что такое POSIX?
+- Основы компьютерных сетей 
+  - [Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
+  - [Тема №2. Протоколы верхнего уровня](https://habr.com/ru/post/307714/)
+  - [Тема №3. Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/post/308636/)
+  - [Тема №4. Сетевые устройства и виды применяемых кабелей](https://habr.com/ru/post/312340/)
+  - [Тема №5. Понятие IP адресации, масок подсетей и их расчет](https://habr.com/ru/post/314484/)
+  - [Тема №6. Понятие VLAN, Trunk и протоколы VTP и DTP](https://habr.com/ru/post/319080/)
+  - [Тема №7. Протокол связующего дерева: STP](https://habr.com/ru/post/321132/)
+  - [Тема №8. Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
+  - [Тема №9. Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
 - [Работа с сетью](working-with-network/index.md)
 - [Управление инициализацией (initd)](initialization-management/index.md)
 - [Управление сервисами (systemd)](service-management/index.md)
