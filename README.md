@@ -46,13 +46,16 @@
   - [Тема №7. Протокол связующего дерева: STP](https://habr.com/ru/post/321132/)
   - [Тема №8. Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
   - [Тема №9. Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
-- [Работа с сетью](working-with-network/index.md)
-- [Управление инициализацией (initd)](initialization-management/index.md)
-- [Управление сервисами (systemd)](service-management/index.md)
-- [Управление вводом/выводом](io-control/index.md)
-- [Виртуализация](virtualization/index.md)
-- [Память/Диск](memory-disk/index.md)
-- [Файл и файловые системы](file/index.md)
+- [Работа с сетью]()
+- [Управление инициализацией (initd)]()
+- Управление сервисами (systemd)
+  - [Systemd за пять минут](https://habr.com/ru/company/southbridge/blog/255845/)
+  - [Шпаргалка по управлению сервисами CentOS 7 с systemd](https://habr.com/ru/company/infobox/blog/241237/)
+  - [Systemd: пишем собственные .service и .target](https://habr.com/ru/post/275645/)
+- [Управление вводом/выводом]()
+- [Виртуализация]()
+- [Память/Диск]()
+- [Файл и файловые системы]()
 
 ## Администрирование серверов
 - Операционная система
