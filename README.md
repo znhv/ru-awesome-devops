@@ -76,11 +76,11 @@
   - Windows
 - Терминал
   - Сеть 
-    - nmap
-    - tcpdump
-    - ping
+    - [nmap](https://habr.com/ru/post/131433/) - Руководство для начинающих.
+    - [tcpdump](https://habr.com/ru/company/first/blog/335428/) - Давайте изучим tcpdump с Джулией Эванс.
+    - [ping](https://habr.com/ru/company/cbs/blog/322386/) - Ping и некоторые его параметры.
     - mtr
-    - traceroute
+    - [traceroute](https://losst.ru/komanda-traceroute-linux) - Команда traceroute Linux.
     - dlg
     - airmon
     - airodump
