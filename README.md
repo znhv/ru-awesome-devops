@@ -74,16 +74,55 @@
   - OpenBSD
   - NetBSD
   - Windows
-
 - Терминал
-  - Сеть — nmap, tcpdump, ping, mtr, traceroute, dlg, airmon, airodump, dig, iptables, netstat
-  - Мониторинг процессов — ps, top, htop, atop, lsof 
-  - Производительность системы — nmon, iostat, sar, vmstat
-  - Работа с текстом — awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc
+  - Сеть 
+    - nmap
+    - tcpdump
+    - ping
+    - mtr
+    - traceroute
+    - dlg
+    - airmon
+    - airodump
+    - dig
+    - iptables
+    - netstat
+  - Мониторинг процессов
+    - ps
+    - top
+    - htop
+    - atop
+    - lsof
+  - Производительность системы
+    - nmon
+    - iostat
+    - sar
+    - vmstat
+  - Работа с текстом
+    - awk
+    - sed
+    - grep
+    - sort
+    - uniq
+    - cat
+    - cut
+    - echo
+    - fmt
+    - tr
+    - nl
+    - egrep
+    - fgrep
+    - wc
   - Bash-скрипт
   - Vim/Nano/PowerShell/Emacs
   - Компиляция
-  - Другие — strace, dtrace, systemtap, uname, df, history
+  - Другие
+    - strace
+    - dtrace
+    - systemtap
+    - uname
+    - df
+    - history
 
 ## Сеть и безопасность
 - HTTP
