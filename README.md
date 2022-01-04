@@ -15,8 +15,9 @@
 - [Мониторинг инфраструктуры и приложения](#Мониторинг-инфраструктуры-и-приложения) - Управление логами, мониторинг инфраструктуры и приложений.
 - [Облачные платформы](#облачные-платформы) - AWS, Google Cloud, Azure, Yandex Cloud, Digital Ocean, Heroku, Linode, Vultr.
 - [База данных](#база-данных) - Redis, MongoDB, MySQL, PostgreSQL.
+- [Алгоритмы](#алгоритмы)
+- [Собеседование](#собеседование) - Вопросы для подготовки.
 - [Книги](#книги)
-- [Остальное](#остальное) - Алгоритмы, веб-разработка, фронтенд и собеседование.
 - Научные статьи
 - Другие Ресурсы
 - [Внесите свой вклад](#Внесите-свой-вклад)
@@ -60,9 +61,6 @@
 ## Администрирование серверов
 - Операционная система
   - Linux
-    - Вопросы для собеседования
-      - [Linux - Basic](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/linux.basic.md)
-      - [Linux - Main+](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/linux.basic.md)
   - Ubuntu
   - CentOS
   - RHEL
@@ -163,25 +161,21 @@
     - [Мультиконтейнерное приложение и Docker Compose](https://doka.guide/tools/docker-compose/)
     - [Управление данными в Docker](https://doka.guide/tools/docker-data-management/)
     - [Как устроен Dockerfile](https://doka.guide/tools/dockerfile/)
-    - [Вопросы для собеседования](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/docker.md) 
   - LXC
 - Управление конфигурацией
   - Ansible
     - [Пособие по Ansible](https://habr.com/ru/post/305400/)
     - [Основы Ansible, без которых ваши плейбуки — комок слипшихся макарон](https://habr.com/ru/post/508762/)
-    - [Вопросы для собеседования](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/ansible.md) 
   - Chef
   - Salt
   - Puppet
 - Оркестрация контейнеров
   - Kubernetes
-    - [Вопросы для собеседования](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/kubernetes.md)
   - Docker Swarm
   - Mesos
   - Nomad
 - Управление инфраструктурой
   - Terraform
-    - [Вопросы для собеседования](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/terraform.md)
   - CloudFormation
   - Pulumi
 - Service Mesh
@@ -243,12 +237,25 @@
 - [Руководство по DevOps]() - Джин Ким, Патрик Дебуа, Джон Уиллис и Джез Хамбл.
 - [Site Reliability Engineering. Надежность и безотказность как в Google]() - Бетси Бейер, Крис Джоунс, Дженнифер Петофф.
 
-## Остальное
+## Алгоритмы
 - Алгоритмы, структуры
-- Веб-разработка
-- Фронтенд
-- Собеседование
-  - Вопросы работодателю
+
+## Собеседование
+- Администрирование серверов
+  - Операционная система
+    - Linux
+      - [Linux - Basic](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/linux.basic.md)
+      - [Linux - Main+](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/linux.basic.md)
+- Инфраструктура как код
+  - Контейнеры
+    - [Docker](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/docker.md) 
+  - Управление конфигурацией
+    - [Ansible](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/ansible.md) 
+  - Оркестрация контейнеров
+    - [Kubernetes](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/kubernetes.md)
+  - Управление инфраструктурой
+    - [Terraform](https://github.com/rmntrvn/adm_linux_ops_questions/blob/master/questions/terraform.md)
+- Вопросы работодателю
 
 ## Внесите свой вклад
 Чтобы поддерживать репозиторий в актуальном состоянии, 
