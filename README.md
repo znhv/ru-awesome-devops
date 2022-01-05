@@ -84,6 +84,8 @@
     - airodump
     - dig
     - iptables
+      - [Настройка iptables для чайников](https://losst.ru/nastrojka-iptables-dlya-chajnikov)
+      - [Основы iptables на примере Debian глазами младенца](https://habr.com/ru/sandbox/18975/)
     - netstat
   - Мониторинг процессов
     - ps
