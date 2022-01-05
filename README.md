@@ -87,6 +87,7 @@
       - [Настройка iptables для чайников](https://losst.ru/nastrojka-iptables-dlya-chajnikov)
       - [Основы iptables на примере Debian глазами младенца](https://habr.com/ru/sandbox/18975/)
     - netstat
+      - [Netstat, где мои дейтаграммы?](https://habr.com/ru/post/312710/)
     - ss
       - [Первое знакомство с командой ss](https://habr.com/ru/company/ruvds/blog/346744/)
   - Мониторинг процессов
