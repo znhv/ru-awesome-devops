@@ -27,7 +27,7 @@
 _Go, Python, Ruby, Node.js, Rust, C, C++._
 
 - Go
-- Python
+- [Python](https://www.python.org) - высокоуровневый язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением памятью.
 - Ruby
 - JavaScript
 - Rust
