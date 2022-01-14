@@ -153,13 +153,19 @@ _Протоколы транспорта, сертификаты, шифрова
 ## Веб-сервера
 _Nginx, Apache, IIS, Tomcat, Caddy._
 
-- Nginx
+- [Nginx](https://nginx.org/ru/) — свободный веб-сервер, разрабатываемый Игорем Сысоевым с 2002 года и пользующийся большой популярностью на крупных сайтах.
   - [Веб-сервер Nginx](https://doka.guide/tools/nginx-web-server/)
-- Apache
+- [Apache HTTP Server](https://httpd.apache.org/) — свободный веб-сервер.
   - [Веб-сервер Apache](https://doka.guide/tools/apache-web-server/)
-- IIS
-- Tomcat
-- Caddy
+- [IIS](https://www.iis.net/) — от компании Microsoft, распространяемый с ОС семейства Windows.
+- [Google Web Server](https://ru.wikipedia.org/wiki/Google_Web_Server) — веб-сервер разработанный компанией Google.
+- [lighttpd](https://lighttpd.net/) — свободный веб-сервер.
+- [Resin](http://www.caucho.com/) — свободный веб-сервер приложений.
+- [Cherokee](http://www.cherokee-project.com/) — свободный веб-сервер, управляемый только через web-интерфейс.
+- [THTTPD](http://www.acme.com/software/thttpd/) — простой, маленький, быстрый и безопасный веб-сервер.
+- [H2O](https://h2o.examp1e.net) — свободный быстрый веб-сервер, написанный на C.
+- [nghttp2](https://nodejs.org/api/http.html) — веб-сервер, встроенный в Node.js.
+- [Go HTTP](https://pkg.go.dev/net/http) — веб-сервер, встроенный в Go.
 
 ## Языки программирования
 _Go, Python, Ruby, Node.js, Rust, C, C++._
