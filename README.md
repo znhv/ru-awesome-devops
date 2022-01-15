@@ -54,18 +54,14 @@ _Управление процессами, виртуализация и фай
 - Файл и файловые системы
 
 ## Операционные Системы
-_Операционные Системы - Серверная платформа._
-
 - Linux
-  - [Ubuntu](https://ubuntu.com/) - дистрибутив GNU/Linux, основанный на Debian GNU/Linux.
-  - [CentOS](https://www.centos.org) - Поддерживаемый сообществом дистрибутив Linux, являющийся открытой версией RHEL, хорошо адаптированной под серверы.
-  [//]: # (- RHEL)
-  - [Fedora](https://getfedora.org/) - Поддерживаемый сообществом дистрибутив Linux, спонсируемый Red Hat. Репозитории содержат новейшие пакеты.
-  [//]: # (- Debian)
-  - [SUSE Linux Enterprise Server](https://www.suse.com/products/server/) - Дистрибутив Linux, ориентированный на серверы, спонсируемый SUSE и направленный на сектор бизнеса.
+  - [Ubuntu](https://ubuntu.com/) — дистрибутив GNU/Linux, основанный на Debian GNU/Linux.
+  - [CentOS](https://www.centos.org) — Поддерживаемый сообществом дистрибутив Linux, являющийся открытой версией RHEL, хорошо адаптированной под серверы.
+  - [Fedora](https://getfedora.org/) — Поддерживаемый сообществом дистрибутив Linux, спонсируемый Red Hat. Репозитории содержат новейшие пакеты.
+  - [SUSE Linux Enterprise Server](https://www.suse.com/products/server/) — Дистрибутив Linux, ориентированный на серверы, спонсируемый SUSE и направленный на сектор бизнеса.
 
 - UNIX
-  - [FreeBSD](https://www.freebsd.org/) - свободная операционная система семейства UNIX, потомок AT&T Unix по линии BSD, созданной в университете Беркли.
+  - [FreeBSD](https://www.freebsd.org/) — свободная операционная система семейства UNIX, потомок AT&T Unix по линии BSD, созданной в университете Беркли.
 
 [//]: # (- OpenBSD)
 
