@@ -26,11 +26,11 @@
 ## Аспекты операционных систем
 _Управление процессами, виртуализация и файловая система._
 
-- [Управление процессами](https://doka.guide/tools/process-management/) - Про управление процессами в многопоточных операционных системах.
-- [Потоки и параллелизм](https://russianblogs.com/article/86971326826/) - Поток, процесс и параллелизм.
-- [Сокеты](https://habr.com/ru/company/otus/blog/539550/) - Сокеты в ОС Linux.
-- [Основы POSIX](https://blog.iteducenter.ua/articles/chto-takoe-posix/) - Что такое POSIX?
-- Основы компьютерных сетей 
+- [Управление процессами](https://doka.guide/tools/process-management/)
+- [Потоки и параллелизм](https://russianblogs.com/article/86971326826/)
+- [Сокеты](https://habr.com/ru/company/otus/blog/539550/)
+- [Основы POSIX](https://blog.iteducenter.ua/articles/chto-takoe-posix/)
+- Основы компьютерных сетей
   - [Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
   - [Протоколы верхнего уровня](https://habr.com/ru/post/307714/)
   - [Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/post/308636/)
@@ -47,10 +47,9 @@ _Управление процессами, виртуализация и фай
   - [Шпаргалка по управлению сервисами CentOS 7 с systemd](https://habr.com/ru/company/infobox/blog/241237/)
   - [Systemd: пишем собственные .service и .target](https://habr.com/ru/post/275645/)
 - Управление вводом/выводом
-- Виртуализация
-  - [Что такое виртуализация и как работает виртуальный сервер](https://habr.com/ru/company/vps_house/blog/344048/) 
+- [Виртуализация и виртуальный сервер](https://habr.com/ru/company/vps_house/blog/344048/) 
 - Память/Диск
-- Файл и файловые системы
+- [Файл и файловые системы](https://doka.guide/tools/file/)
 
 ## Операционные Системы
 - Linux
