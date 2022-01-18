@@ -41,12 +41,15 @@ _Управление процессами, виртуализация и фай
   - [Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
   - [Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
 - Работа с сетью
-- Управление инициализацией (initd)
-- Управление сервисами (systemd)
+- [Управление инициализацией (initd)](https://www.opennet.ru/man.shtml?topic=init&russian=0&category=&submit=%F0%CF%CB%C1%DA%C1%D4%D8+man)
+- [Управление сервисами (systemd)](https://www.opennet.ru/man.shtml?topic=systemd&category=1&russian=0)
+  - [Systemd для администраторов](http://www2.kangran.su/~nnz/pub/s4a/s4a_latest.pdf)
   - [Systemd за пять минут](https://habr.com/ru/company/southbridge/blog/255845/)
   - [Шпаргалка по управлению сервисами CentOS 7 с systemd](https://habr.com/ru/company/infobox/blog/241237/)
   - [Systemd: пишем собственные .service и .target](https://habr.com/ru/post/275645/)
-- Управление вводом/выводом
+  - [Systemd | ArchLinux](https://wiki.archlinux.org/title/Systemd_(Русский))
+  - [Systemd | Ubuntu](https://help.ubuntu.ru/wiki/systemd)
+- [Управление вводом/выводом](http://citforum.ru/operating_systems/sos/glava_9.shtml)
 - [Виртуализация и виртуальный сервер](https://habr.com/ru/company/vps_house/blog/344048/) 
 - Память/Диск
 - [Файл и файловые системы](https://doka.guide/tools/file/)
