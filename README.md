@@ -197,12 +197,12 @@ _Система контроля версий, контейнеры, оркес�
   - Salt
   - Puppet
 - Оркестрация контейнеров
-  - Kubernetes
-  - Docker Swarm
+  - [Kubernetes](https://kubernetes.io/ru/)
+  - [Docker Swarm](https://docs.docker.com/engine/swarm/)
   - Mesos
   - Nomad
 - Управление инфраструктурой
-  - Terraform
+  - [Terraform](https://www.terraform.io/docs)
   - CloudFormation
   - Pulumi
 - Service Mesh
