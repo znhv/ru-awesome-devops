@@ -89,12 +89,12 @@ _Управление процессами, виртуализация и фай
       - [Netstat, где мои дейтаграммы?](https://habr.com/ru/post/312710/)
     - ss
       - [Первое знакомство с командой ss](https://habr.com/ru/company/ruvds/blog/346744/)
-  - Мониторинг процессов
-    - ps
-    - top
-    - htop
-    - atop
-    - lsof
+  - [Мониторинг процессов](https://losst.ru/upravlenie-protsessami-v-linux)
+    - [ps](https://losst.ru/komanda-ps-v-linux)
+    - [top](https://losst.ru/komanda-top-v-linux)
+    - [htop](https://rtfm.co.ua/linux-utilita-htop/)
+    - [atop](https://help.reg.ru/hc/ru/articles/4408047409937-Диагностика-VPS-с-помощью-Atop)
+    - [lsof](https://wiki.merionet.ru/servernye-resheniya/18/nuzhno-znat-utilita-lsof-v-linux/)
   - Производительность системы
     - nmon
     - iostat
