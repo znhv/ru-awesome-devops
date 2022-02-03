@@ -96,10 +96,10 @@ _Управление процессами, виртуализация и фай
     - [atop](https://help.reg.ru/hc/ru/articles/4408047409937-Диагностика-VPS-с-помощью-Atop)
     - [lsof](https://wiki.merionet.ru/servernye-resheniya/18/nuzhno-znat-utilita-lsof-v-linux/)
   - Производительность системы
-    - nmon
-    - iostat
-    - sar
-    - vmstat
+    - [nmon](https://rtfm.co.ua/linux-opisanie-utility-nmon/)
+    - [iostat](https://losst.ru/opisanie-iostat-linux)
+    - [sar](https://rtfm.co.ua/linux-utilita-sar-opisanie-primery/)
+    - [vmstat](https://rtfm.co.ua/linux-opisanie-utility-vmstat/)
   - Работа с текстом
     - awk
     - sed
