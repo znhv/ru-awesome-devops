@@ -1,4 +1,4 @@
-# Awesome DevOps :ru
+# Awesome DevOps :ru:
 
 [![CI](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml/badge.svg)](https://github.com/znhv/awesome-devops/actions/workflows/main.yaml)
 
